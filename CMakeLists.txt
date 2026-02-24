@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(lab_1 C)
+project(Estudos C)
 
 set(CMAKE_C_STANDARD 23)
 
